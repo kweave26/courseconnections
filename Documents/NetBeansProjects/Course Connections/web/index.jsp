@@ -15,17 +15,16 @@
     </head>
     <body>
         <header>
-            <div id="login_register" class="header_text">
-                <a href="?">Login</a> | <a href="?">Register</a>
+            <div id="login_register" class="special_text">
+                <a href="index.jsp">Login</a> | <a href="index.jsp">Register</a>
             </div>
-            <h1 id="title" class="header_text">Course Connections</h1>
+            <h1 id="title" class="special_text"><span>Course</span>Connections</h1>
             <nav id="navbar">
-                <ul class="header_text">
+                <ul class="special_text">
                     <li><a href="index.jsp">Home</a></li>
-                    <li><a href="?">Courses</a></li>
-                    <li><a href="?">Stuff</a></li>
-                    <li><a href="?">Other Stuff</a></li>
-                    <li><a href="?">More Stuff</a></li>
+                    <li><a href="index.jsp">Chat</a></li>
+                    <li><a href="index.jsp">Courses</a></li>
+                    <li><a href="index.jsp">Account</a></li>
                 </ul>
             </nav>
         </header>
