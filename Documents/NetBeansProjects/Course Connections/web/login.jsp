@@ -1,6 +1,6 @@
 <%-- 
-    Document   : index
-    Created on : Oct 1, 2018, 3:53:28 PM
+    Document   : login
+    Created on : Oct 15, 2018, 4:29:45 PM
     Author     : soup
 --%>
 
@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>CourseConnections</title>
+        <title>Login</title>
         <%@include file="head.jsp"%>
     </head>
     <body>
@@ -16,7 +16,7 @@
             <jsp:include page="header.jsp"/>
         </header>
         <main>
-            <p>Welcome to Course Connections! Please login to continue, friend.</p>
+            <p>This is the login page!</p>
         </main>
         <footer>
             <jsp:include page="footer.jsp"/>
