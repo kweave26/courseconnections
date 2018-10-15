@@ -18,9 +18,13 @@ main {
     clear: both;
 }
 
+.header_text {
+    font-family: "Bree Serif";
+}
+
 #title {
-    font-size: 200%;
-    color: green;
+    font-size: 300%;
+    color: black;
     text-align: center;
     margin-left: 2em;
 }
@@ -49,8 +53,7 @@ main {
     width: 175px;
     padding: .5em 0;
     text-decoration: none;
-    background-color: green;
-    color: white;
+    color: black;
     font-weight: bold;
     border-right: 2px solid white;
     font-size: 150%;
